@@ -1,0 +1,32 @@
+{
+  "name": "descarga_afip",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@antiadmin/anticaptchaofficial": "^1.0.45",
+    "async-retry": "^1.3.1",
+    "aws-sdk": "~2.1473.0",
+    "axios": "^1.5.1",
+    "debug": "^4.3.4",
+    "delay": "^4.4.0",
+    "dotenv": "~16.3.1",
+    "form-data": "^4.0.0",
+    "got": "^11.8.1",
+    "jszip": "^3.10.1",
+    "luxon": "^3.4.3",
+    "moment": "^2.29.1",
+    "puppeteer": "^21.4.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "theeye-bot-sdk": "~1.1.3",
+    "uuid": "^9.0.1",
+    "xlsx": "^0.18.5"
+  },
+  "description": ""
+}

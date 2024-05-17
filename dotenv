@@ -1,0 +1,4 @@
+MONGODB_URL="mongodb+srv://"
+DEBUG="core:*,webbots:*"
+RETRIES=3
+LB4_RETRIES=10

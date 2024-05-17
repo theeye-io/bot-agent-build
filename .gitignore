@@ -1,0 +1,21 @@
+node_modules
+build
+npm-debug.log
+.env
+.DS_Store
+descarga/
+download/
+downloads/
+files/
+files/*
+configs/
+tests/
+/config/*
+!/core/AutoIt/config #Except for AutoIt Config
+creds.json
+config_captcha.json
+creds.json
+*.swp
+webbots/portaliva/test.json
+webbots/retenciones/test.json
+webbots/common/config.js
